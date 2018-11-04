@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'TV Progs' target in the 'TV Progs' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
